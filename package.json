@@ -1,0 +1,23 @@
+{
+	"name": "js2ts",
+	"version": "1.0.0",
+	"main": "src/js/1_function.js",
+	"scripts": {
+		"test:js:1": "node src/js/1_function.js",
+		"test:js:2": "node src/js/2_object.js",
+		"test:js:3": "node src/js/3_null_undefined.js",
+		"test:js:4": "node src/js/4_missing_properties.js",
+		"test:js:5": "node src/js/5_dynamic_object.js",
+		"test:js:6": "node src/js/6_array_types.js",
+		"test:js:7": "node src/js/7_mixed_array.js",
+		"test:js:8": "node src/js/8_async_await.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@types/node": "^22.13.5",
+		"typescript": "^5.7.3"
+	}
+}
