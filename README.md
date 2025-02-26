@@ -4,7 +4,7 @@
 
 Ce projet contient plusieurs erreurs qui ne posent pas de problème en **JavaScript**, mais qui empêcheront la compilation en **TypeScript**.
 
-🎯 **Votre mission :** Convertir les fichiers JavaScript en TypeScript et corriger toutes les erreurs !
+🎯 **Votre mission :** convertir les fichiers JavaScript en TypeScript et corriger toutes les erreurs !
 
 ---
 
@@ -15,7 +15,7 @@ Ce projet contient plusieurs erreurs qui ne posent pas de problème en **JavaScr
 3. **Corrigez les erreurs** en ajoutant des types et en modifiant la logique si nécessaire.
     1. Vous devez **corriger toutes les erreurs** pour que le code compile sans erreur.
     2. ⚠️ **N'oubliez pas d'ajouter des types** pour les paramètres et les **valeurs de retour des fonctions** ⚠️
-4. **Une fois tous les exercices compilés sans erreur** dans le playground, copiez le code corrigé dans le fichier TypeScript fournis. (j'insite, vous devez typé les fonctions)
+4. **Une fois tous les exercices compilés sans erreur** dans le playground, copiez le code corrigé dans le fichier TypeScript fournis. (j'insiste, vous devez typer les fonctions)
 5. Me **soumettre** le lien de votre dépôt pour vérification.
 
 ---
